@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="380">
+  <style>
+    .win  { fill: transparent; stroke: #30363d; stroke-width: 1; rx: 8; }
+    .txt  { font-family: 'Consolas','Monaco',monospace; font-size: 12.5px; fill: #e6edf3; }
+    .kn   { fill: #79c0ff; font-weight: bold; }
+    .ks   { fill: #d2a8ff; font-weight: bold; }
+    .kh   { fill: #ffa657; font-weight: bold; text-decoration: underline; }
+    .hi   { fill: #7ee787; }
+    .ttl  { fill: #58a6ff; font-weight: bold; }
+    .sep  { fill: #30363d; }
+    .line { opacity: 0; animation: fadeIn .8s ease-out forwards; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateX(-10px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+    .d1  { animation-delay: .08s; }
+    .d2  { animation-delay: .16s; }
+    .d3  { animation-delay: .24s; }
+    .d4  { animation-delay: .32s; }
+    .d5  { animation-delay: .40s; }
+    .d6  { animation-delay: .48s; }
+    .d7  { animation-delay: .56s; }
+    .d8  { animation-delay: .64s; }
+    .d9  { animation-delay: .72s; }
+    .d10 { animation-delay: .80s; }
+    .d11 { animation-delay: .88s; }
+    .d12 { animation-delay: .96s; }
+    .d13 { animation-delay: 1.04s; }
+    .d14 { animation-delay: 1.12s; }
+  </style>
+
+  <rect width="488" height="378" x="1" y="1" class="win"/>
+
+  <!-- terminal chrome -->
+  <circle cx="16" cy="16" r="6" fill="#ff5f56"/>
+  <circle cx="36" cy="16" r="6" fill="#ffbd2e"/>
+  <circle cx="56" cy="16" r="6" fill="#27c93f"/>
+
+  <text x="245" y="20" class="txt ttl" text-anchor="middle">palak@github ~ $ neofetch</text>
+  <text x="20" y="44" class="txt sep">──────────────────────────────────────────────</text>
+
+  <g class="txt" transform="translate(20,72)">
+    <g class="line d1">
+      <text x="0" y="0"><tspan class="kn">Now      </tspan>: Building AI Agents &amp; ML Systems</text>
+    </g>
+    <g class="line d2">
+      <text x="0" y="22"><tspan class="kn">Edu      </tspan>: BTech CS + AI · Rishihood University</text>
+    </g>
+    <g class="line d3">
+      <text x="0" y="42"><tspan class="kn">         </tspan>  Finance Minor · 2nd Year</text>
+    </g>
+    <g class="line d5">
+      <text x="0" y="78"><tspan class="ks">Stack    </tspan>: Python, Google ADK, FastAPI</text>
+    </g>
+    <g class="line d6">
+      <text x="0" y="98"><tspan class="ks">         </tspan>  LiteLLM, yfinance, MCP, Docker</text>
+    </g>
+    <g class="line d8">
+      <text x="0" y="138"><tspan class="ks">AI / ML  </tspan>: Multi-Agent Systems, LLM Orchestration</text>
+    </g>
+    <g class="line d9">
+      <text x="0" y="158"><tspan class="ks">         </tspan>  Financial Modeling, DCF Valuation</text>
+    </g>
+    <g class="line d11">
+      <text x="0" y="198"><tspan class="kh">Highlights</tspan>:</text>
+    </g>
+    <g class="line d12">
+      <text x="0" y="220"> • <tspan class="hi">Built autonomous equity research agent</tspan></text>
+    </g>
+    <g class="line d13">
+      <text x="0" y="240"> • <tspan class="hi">Kaggle × Google AI Agents Intensive '26</tspan></text>
+    </g>
+    <g class="line d14">
+      <text x="0" y="260"> • <tspan class="hi">107 unit tests · professor-verified math</tspan></text>
+    </g>
+  </g>
+</svg>
