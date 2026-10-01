@@ -26,6 +26,5 @@
 [![Equity Research Agent](https://img.shields.io/badge/🏦_Equity_Research_Agent-Live_Demo-blueviolet?style=for-the-badge)](https://equity-research-agent-v9xq.onrender.com/)
 [![Relay](https://img.shields.io/badge/Relay-Source_Code-blue?style=for-the-badge)](https://github.com/palak22291/Relay)
 [![Card Fraud Triage](https://img.shields.io/badge/Card_Fraud_Triage-Source_Code-red?style=for-the-badge)](https://github.com/palak22291/Card-Fraud-Triage)
-[![Attend Mate](https://img.shields.io/badge/Attend_Mate-Source_Code-green?style=for-the-badge)](https://github.com/palak22291/Attend-Mate)
 
 </div>

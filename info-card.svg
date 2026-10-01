@@ -44,16 +44,16 @@
       <text x="0" y="0"><tspan class="kn">Now      </tspan>: Building AI Agents &amp; ML Systems</text>
     </g>
     <g class="line d2">
-      <text x="0" y="22"><tspan class="kn">Edu      </tspan>: BTech CS + AI · Rishihood University</text>
+      <text x="0" y="22"><tspan class="kn">Edu      </tspan>: BTech CS+AI · Newton School of Technology</text>
     </g>
     <g class="line d3">
-      <text x="0" y="42"><tspan class="kn">         </tspan>  Finance Minor · 2nd Year</text>
+      <text x="0" y="42"><tspan class="kn">         </tspan>  Finance Minor · 3rd Year</text>
     </g>
     <g class="line d5">
-      <text x="0" y="78"><tspan class="ks">Stack    </tspan>: Python, Google ADK, FastAPI</text>
+      <text x="0" y="78"><tspan class="ks">Stack    </tspan>: Python, TypeScript, React, Node.js</text>
     </g>
     <g class="line d6">
-      <text x="0" y="98"><tspan class="ks">         </tspan>  LiteLLM, yfinance, MCP, Docker</text>
+      <text x="0" y="98"><tspan class="ks">         </tspan>  FastAPI, Prisma, Docker, WebSockets</text>
     </g>
     <g class="line d8">
       <text x="0" y="138"><tspan class="ks">AI / ML  </tspan>: Multi-Agent Systems, LLM Orchestration</text>
@@ -68,7 +68,7 @@
       <text x="0" y="220"> • <tspan class="hi">Built autonomous equity research agent</tspan></text>
     </g>
     <g class="line d13">
-      <text x="0" y="240"> • <tspan class="hi">Developed Relay, Card Fraud Triage, Attend Mate</tspan></text>
+      <text x="0" y="240"> • <tspan class="hi">Developed Relay, Card Fraud Triage</tspan></text>
     </g>
     <g class="line d14">
       <text x="0" y="260"> • <tspan class="hi">Kaggle × Google AI Agents Intensive '26</tspan></text>
