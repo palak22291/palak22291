@@ -1,9 +1,10 @@
 """Prep a photo for ASCII conversion: remove background, boost contrast, composite on white."""
 import sys
 import os
+import io
 
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageOps
 from rembg import remove
 import cv2
 
@@ -23,15 +24,22 @@ def main():
     os.makedirs(data_dir, exist_ok=True)
     out_path = os.path.join(data_dir, "source-prepped.png")
 
+    # 0. Fix EXIF orientation (prevents the image from being tilted/rotated)
+    img_orig = Image.open(photo_path)
+    img_orig = ImageOps.exif_transpose(img_orig)
+    
+    # Save the upright image to a byte buffer for rembg
+    buf = io.BytesIO()
+    img_orig.save(buf, format="PNG")
+    raw_bytes = buf.getvalue()
+
     # 1. Remove background
-    with open(photo_path, "rb") as f:
-        raw = f.read()
-    nobg = remove(raw)
-    img = Image.open(__import__("io").BytesIO(nobg)).convert("RGBA")
+    nobg_bytes = remove(raw_bytes)
+    img_nobg = Image.open(io.BytesIO(nobg_bytes)).convert("RGBA")
 
     # 2. Composite onto white
-    white = Image.new("RGBA", img.size, (255, 255, 255, 255))
-    composite = Image.alpha_composite(white, img).convert("L")  # grayscale
+    white = Image.new("RGBA", img_nobg.size, (255, 255, 255, 255))
+    composite = Image.alpha_composite(white, img_nobg).convert("L")  # grayscale
 
     # 3. Boost local contrast with CLAHE
     arr = np.array(composite)
