@@ -24,14 +24,13 @@ def main():
     img = img.resize((COLS, rows))
     pixels = img.load()
 
-    # Build ASCII rows
+    # Build ASCII rows exactly like Attempt 1
     ascii_rows: list[str] = []
     for y in range(rows):
         row = []
         for x in range(COLS):
             brightness = pixels[x, y]
-            # INVERT MAPPING: White (255) becomes RAMP[0] (' '), Black (0) becomes RAMP[-1] ('@')
-            idx = int((255 - brightness) / 255 * (len(RAMP) - 1))
+            idx = int(brightness / 255 * (len(RAMP) - 1))
             row.append(RAMP[idx])
         ascii_rows.append("".join(row))
 
