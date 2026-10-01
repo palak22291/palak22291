@@ -1,15 +1,12 @@
 """Convert prepped grayscale photo into a self-typing monochrome ASCII SVG."""
 import os
-
 from PIL import Image
-
 
 # Brightness ramp: sparse (bright) → dense (dark)
 RAMP = " .`:-=+*cs#%@"
 
 COLS = 100
 CHAR_ASPECT = 0.55  # monospace characters are taller than wide
-
 
 def main():
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -33,7 +30,8 @@ def main():
         row = []
         for x in range(COLS):
             brightness = pixels[x, y]
-            idx = int(brightness / 255 * (len(RAMP) - 1))
+            # INVERT MAPPING: White (255) becomes RAMP[0] (' '), Black (0) becomes RAMP[-1] ('@')
+            idx = int((255 - brightness) / 255 * (len(RAMP) - 1))
             row.append(RAMP[idx])
         ascii_rows.append("".join(row))
 
@@ -77,7 +75,6 @@ def main():
     with open(out, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     print(f"✓ ASCII portrait ({COLS}×{rows}) → {out}")
-
 
 if __name__ == "__main__":
     main()

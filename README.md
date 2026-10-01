@@ -21,8 +21,11 @@
 
 **AI/ML Engineer · Multi-Agent Systems · Financial AI**
 
-[![Portfolio](https://img.shields.io/badge/🏦_Equity_Research_Agent-Live_Demo-blueviolet?style=for-the-badge)](https://equity-research-agent-v9xq.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-palak22291-181717?style=for-the-badge&logo=github)](https://github.com/palak22291)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/palak-gupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/palak-gupta-329945240/)
+[![Email](https://img.shields.io/badge/Email-palak.gupta.dev22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palak.gupta.dev22@gmail.com)
+[![Equity Research Agent](https://img.shields.io/badge/🏦_Equity_Research_Agent-Live_Demo-blueviolet?style=for-the-badge)](https://equity-research-agent-v9xq.onrender.com/)
+[![Relay](https://img.shields.io/badge/Relay-Source_Code-blue?style=for-the-badge)](https://github.com/palak22291/Relay)
+[![Card Fraud Triage](https://img.shields.io/badge/Card_Fraud_Triage-Source_Code-red?style=for-the-badge)](https://github.com/palak22291/Card-Fraud-Triage)
+[![Attend Mate](https://img.shields.io/badge/Attend_Mate-Source_Code-green?style=for-the-badge)](https://github.com/palak22291/Attend-Mate)
 
 </div>

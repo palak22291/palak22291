@@ -1,7 +1,6 @@
 """Generate a neofetch-style animated SVG info card."""
 import os
 
-
 SVG = """\
 <svg xmlns="http://www.w3.org/2000/svg" width="490" height="380">
   <style>
@@ -73,15 +72,14 @@ SVG = """\
       <text x="0" y="220"> • <tspan class="hi">Built autonomous equity research agent</tspan></text>
     </g>
     <g class="line d13">
-      <text x="0" y="240"> • <tspan class="hi">Kaggle × Google AI Agents Intensive '26</tspan></text>
+      <text x="0" y="240"> • <tspan class="hi">Developed Relay, Card Fraud Triage, Attend Mate</tspan></text>
     </g>
     <g class="line d14">
-      <text x="0" y="260"> • <tspan class="hi">107 unit tests · professor-verified math</tspan></text>
+      <text x="0" y="260"> • <tspan class="hi">Kaggle × Google AI Agents Intensive '26</tspan></text>
     </g>
   </g>
 </svg>
 """
-
 
 def main():
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -89,7 +87,6 @@ def main():
     with open(out, "w", encoding="utf-8") as f:
         f.write(SVG)
     print(f"✓ Info card → {out}")
-
 
 if __name__ == "__main__":
     main()
