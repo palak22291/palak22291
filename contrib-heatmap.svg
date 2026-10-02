@@ -38,7 +38,7 @@
   </g>
   <g class="col" style="animation-delay:0.018s">
     <rect x="59" y="55" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
-    <rect x="59" y="69" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
+    <rect x="59" y="69" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="59" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="59" y="97" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="59" y="111" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
@@ -64,19 +64,19 @@
     <rect x="87" y="139" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
   </g>
   <g class="col" style="animation-delay:0.072s">
-    <rect x="101" y="55" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
-    <rect x="101" y="69" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
+    <rect x="101" y="55" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
+    <rect x="101" y="69" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="101" y="83" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="101" y="97" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="101" y="111" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="101" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
-    <rect x="101" y="139" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
+    <rect x="101" y="139" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
   </g>
   <g class="col" style="animation-delay:0.090s">
     <rect x="115" y="55" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="115" y="69" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="115" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
-    <rect x="115" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="115" y="97" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="115" y="111" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="115" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="115" y="139" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
@@ -84,7 +84,7 @@
   <g class="col" style="animation-delay:0.108s">
     <rect x="129" y="55" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="129" y="69" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
-    <rect x="129" y="83" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
+    <rect x="129" y="83" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="129" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="129" y="111" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="129" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
@@ -97,7 +97,7 @@
     <rect x="143" y="97" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="143" y="111" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="143" y="125" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
-    <rect x="143" y="139" width="11" height="11" rx="2" ry="2" fill="#39d353"/>
+    <rect x="143" y="139" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
   </g>
   <g class="col" style="animation-delay:0.144s">
     <rect x="157" y="55" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
@@ -113,7 +113,7 @@
     <rect x="171" y="69" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="171" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="171" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
-    <rect x="171" y="111" width="11" height="11" rx="2" ry="2" fill="#39d353"/>
+    <rect x="171" y="111" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
     <rect x="171" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="171" y="139" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
   </g>
@@ -211,7 +211,7 @@
     <rect x="325" y="55" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="325" y="69" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="325" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
-    <rect x="325" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="325" y="97" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="325" y="111" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="325" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="325" y="139" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
@@ -302,12 +302,12 @@
     <rect x="465" y="69" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="465" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="465" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
-    <rect x="465" y="111" width="11" height="11" rx="2" ry="2" fill="#39d353"/>
+    <rect x="465" y="111" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
     <rect x="465" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="465" y="139" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
   </g>
   <g class="col" style="animation-delay:0.558s">
-    <rect x="479" y="55" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="479" y="55" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="479" y="69" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="479" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="479" y="97" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
@@ -373,13 +373,13 @@
     <rect x="577" y="55" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="577" y="69" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="577" y="83" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
-    <rect x="577" y="97" width="11" height="11" rx="2" ry="2" fill="#39d353"/>
+    <rect x="577" y="97" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
     <rect x="577" y="111" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="577" y="125" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="577" y="139" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
   </g>
   <g class="col" style="animation-delay:0.702s">
-    <rect x="591" y="55" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="591" y="55" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="591" y="69" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="591" y="83" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="591" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
@@ -397,13 +397,13 @@
     <rect x="605" y="139" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
   </g>
   <g class="col" style="animation-delay:0.738s">
-    <rect x="619" y="55" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="619" y="55" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="619" y="69" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="619" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
-    <rect x="619" y="97" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
-    <rect x="619" y="111" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
-    <rect x="619" y="125" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
-    <rect x="619" y="139" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
+    <rect x="619" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="619" y="111" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="619" y="125" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="619" y="139" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
   </g>
   <g class="col" style="animation-delay:0.756s">
     <rect x="633" y="55" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
@@ -430,19 +430,19 @@
     <rect x="661" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="661" y="111" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="661" y="125" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
-    <rect x="661" y="139" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
+    <rect x="661" y="139" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
   </g>
   <g class="col" style="animation-delay:0.810s">
     <rect x="675" y="55" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="675" y="69" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="675" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
-    <rect x="675" y="97" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="675" y="97" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="675" y="111" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="675" y="125" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
-    <rect x="675" y="139" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="675" y="139" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
   </g>
   <g class="col" style="animation-delay:0.828s">
-    <rect x="689" y="55" width="11" height="11" rx="2" ry="2" fill="#39d353"/>
+    <rect x="689" y="55" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
     <rect x="689" y="69" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="689" y="83" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="689" y="97" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
@@ -457,7 +457,7 @@
     <rect x="703" y="97" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="703" y="111" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
     <rect x="703" y="125" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
-    <rect x="703" y="139" width="11" height="11" rx="2" ry="2" fill="#26a641"/>
+    <rect x="703" y="139" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
   </g>
   <g class="col" style="animation-delay:0.864s">
     <rect x="717" y="55" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
@@ -500,9 +500,10 @@
     <rect x="773" y="69" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
     <rect x="773" y="83" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="773" y="97" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
-    <rect x="773" y="111" width="11" height="11" rx="2" ry="2" fill="#006d32"/>
+    <rect x="773" y="111" width="11" height="11" rx="2" ry="2" fill="#39d353"/>
+    <rect x="773" y="125" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
   </g>
-  <text x="45" y="178" class="foot">279 contributions in the last year</text>
+  <text x="45" y="178" class="foot">292 contributions in the last year</text>
   <text x="682" y="178" class="label">Less</text>
   <rect x="710" y="168" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
   <rect x="724" y="168" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
