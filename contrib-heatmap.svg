@@ -502,6 +502,7 @@
     <rect x="773" y="97" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="773" y="111" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
     <rect x="773" y="125" width="11" height="11" rx="2" ry="2" fill="#0e4429"/>
+    <rect x="773" y="139" width="11" height="11" rx="2" ry="2" fill="#161b22"/>
   </g>
   <text x="45" y="178" class="foot">307 contributions in the last year</text>
   <text x="682" y="178" class="label">Less</text>
